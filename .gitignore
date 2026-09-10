@@ -1,1 +1,10 @@
 .env
+/temp
+
+#nodejs
+node_modules/
+npm-debug.log*
+dist/
+build/
+coverage/
+
