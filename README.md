@@ -1,3 +1,4 @@
-#mi primer proyecto con GIT
-##Manejo y configuracion de software
-###Cuarto software "A"
+# mi primer proyecto con GIT
+## Manejo y configuracion de software
+### Cuarto software "A"
+### Genesis Lisbeth Gamarra Morocho
